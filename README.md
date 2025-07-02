@@ -2,8 +2,9 @@
 
 A simple **Weather App** that shows the current temperature, location, local time, and weather condition for any searched city using **WeatherAPI**.
 
-![Weather App Screenshot1]([https://via.placeholder.com/800x400.png?text=Weather+App+Screenshot](https://raw.githubusercontent.com/tapasilikithareddy/Weather-app-using-HTML-CSS-JavaScript/refs/heads/main/Weather_screenshot2.jpeg))
-![Weather App Screenshot1]([https://via.placeholder.com/800x400.png?text=Weather+App+Screenshot](https://raw.githubusercontent.com/tapasilikithareddy/Weather-app-using-HTML-CSS-JavaScript/refs/heads/main/Weather_screenshot1.jpeg))
+![Weather App Screenshot1](https://raw.githubusercontent.com/tapasilikithareddy/Weather-app-using-HTML-CSS-JavaScript/refs/heads/main/Weather_screenshot2.jpeg)
+
+![Weather App Screenshot2](https://raw.githubusercontent.com/tapasilikithareddy/Weather-app-using-HTML-CSS-JavaScript/refs/heads/main/Weather_screenshot1.jpeg)
 
 ---
 
