@@ -20,7 +20,7 @@ A simple **Weather App** that shows the current temperature, location, local tim
 
 ## 🌐 Live Demo
 
-[**Click here to view the live Weather App**](https://yourusername.github.io/weather-app/)
+[**Click here to view the live Weather App**](https://github.com/tapasilikithareddy/Weather-app-using-HTML-CSS-JavaScript.git)
 
 ---
 
